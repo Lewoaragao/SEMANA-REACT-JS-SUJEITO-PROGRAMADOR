@@ -1,3 +1,9 @@
+2 projetos criados em React
+• calculadora IMC
+• encurtador de link
+
+obs: encurtador de link tá com bug de remoação do link salvo, depois do clique na lixeira só remove ao recarregar a página, quando for resolvido o bug apago essa obs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
