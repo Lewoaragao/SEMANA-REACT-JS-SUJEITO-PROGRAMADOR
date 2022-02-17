@@ -1,6 +1,6 @@
-2 projetos criados em React
-• calculadora IMC
-• encurtador de link
+## 2 projetos criados em React
+- calculadora IMC
+- encurtador de link
 
 obs: encurtador de link tá com bug de remoação do link salvo, depois do clique na lixeira só remove ao recarregar a página, quando for resolvido o bug apago essa obs.
 
